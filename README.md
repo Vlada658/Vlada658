@@ -1,22 +1,22 @@
-# Привет, меня зовут Артем!
+# Привет, меня зовут Влада!
 
 ---
 
 ### 👨‍💻 Обо мне:
+Начинающий QA Engineer с практическим опытом тестирования, полученным в рамках обучения на курсе по тестированию ПО.
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал на YouTube с аудиторией более 158.000 человек. Зв время преподавтаельсккой деятельности обучил более 10.000 студентов на разных платформах.
+Имею бэкграунд в фармацевтической лаборатории контроля качества, где сформировал внимательность к деталям, системное мышление и умение работать в условиях строгих регламентов.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+Стремлюсь развиваться в сфере тестирования программного обеспечения и применять полученные знания на практике.
+
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](vladislava6567@gmail.com)
 
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
+    <a href="https://t.me/@vlada0078" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
@@ -78,13 +78,81 @@
 </div>
 
 ---
+### 🧪Тестовые артефакты:
 
-<!-- ### 💻 Пройденные курсы:
+### 📌 Теория тестирования
+- Определение методов, типов и уровней тестирования  
+👉 https://github.com/Vlada658/Testing-Methods-Types-Levels-
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+- Анализ требований и макета  
+👉 https://github.com/Vlada658/Requirements-Analysis
 
---- -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+### 📌 Тест-дизайн
+- Эквивалентное разбиение и граничные значения (форма регистрации)  
+👉 https://github.com/Vlada658/test-design-registration-form
+
+- Попарное тестирование (фильтрация и сортировка)  
+👉 https://github.com/Vlada658/pairwise-filtering-sorting
+
+
+### 📌 Тестовая документация
+- Чек-лист (регистрация и логин)  
+👉 https://github.com/Vlada658/checklist-registration-login
+
+- Тест-кейсы (регистрация и логин)  
+👉 https://github.com/Vlada658/test-cases-registration-login
+
+- Баг-репорты (регистрация, логин)  
+👉 https://github.com/Vlada658/bug-reports-registration-login
+
+
+### 📌 Web testing
+- Работа в DevTools  
+👉 https://github.com/Vlada658/Exploratory-Testing-Online-Store
+
+- Основы HTML и CSS (простая веб-страница)  
+👉 https://github.com/Vlada658/HTML-CSS-Basics-for-QA
+
+- Поиск багов в корзине  
+👉 https://github.com/Vlada658/Exploratory-Testing-Online-Store
+
+
+### 📌 API testing
+- Проверка XML на ошибки  
+👉 https://github.com/Vlada658/XML-Validation
+
+- Postman коллекция 
+👉https://github.com/Vlada658/Postman-Collection
+
+- Тестирование SOAP сервиса  
+👉 https://github.com/Vlada658/SOAP-API-Testing
+
+
+### 📌 Работа с данными
+- SQL SELECT запросы  
+👉 https://github.com/Vlada658/SQL-Testing-SELECT-Queries
+
+- SQL JOIN запросы  
+👉https://github.com/Vlada658/SQL-Testing-JOIN-Queries
+
+- MongoDB (NoSQL)  
+👉 https://github.com/Vlada658/MongoDB-Testing
+
+
+### 📌 Mobile testing
+- Чек-лист и тест-кейсы (мобильное приложение)  
+👉https://github.com/Vlada658/-Mobile-Testing-Checklist-Test-Cases
+
+- Баг-репорты (мобильное приложение)  
+👉 https://github.com/Vlada658/Mobile-Testing-Bug-Reports
+
+
+### 📌 Advanced testing
+- Перехват и модификация трафика (Charles Proxy)  
+👉 https://github.com/Vlada658/Traffic-Interception-Charles-Proxy
+
+
+### 📌 Tools
+- Bash команды  
+👉https://github.com/Vlada658/Bash
