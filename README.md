@@ -107,7 +107,7 @@
 👉 https://github.com/Vlada658/bug-reports-registration-login
 
 
-### 📌 Web testing
+### 📌 Веб-тестирование
 - Работа в DevTools  
 👉 https://github.com/Vlada658/Exploratory-Testing-Online-Store
 
@@ -118,7 +118,7 @@
 👉 https://github.com/Vlada658/Exploratory-Testing-Online-Store
 
 
-### 📌 API testing
+### 📌 API-тестирование
 - Проверка XML на ошибки  
 👉 https://github.com/Vlada658/XML-Validation
 
@@ -140,19 +140,17 @@
 👉 https://github.com/Vlada658/MongoDB-Testing
 
 
-### 📌 Mobile testing
+### 📌 Мобильное тестирование
 - Чек-лист и тест-кейсы (мобильное приложение)  
 👉https://github.com/Vlada658/-Mobile-Testing-Checklist-Test-Cases
 
 - Баг-репорты (мобильное приложение)  
 👉 https://github.com/Vlada658/Mobile-Testing-Bug-Reports
 
-
-### 📌 Advanced testing
 - Перехват и модификация трафика (Charles Proxy)  
 👉 https://github.com/Vlada658/Traffic-Interception-Charles-Proxy
 
 
-### 📌 Tools
+### 📌 Инструменты
 - Bash команды  
 👉https://github.com/Vlada658/Bash
