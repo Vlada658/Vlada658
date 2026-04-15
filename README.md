@@ -74,15 +74,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  
 </div>
 
 ---
 ### 🧪Тестовые артефакты:
 
 ### 📌 Теория тестирования
-- Определение методов, типов и уровней тестирования
-  Классификация подходов к тестированию интернет-магазина (методы, уровни, типы).
+- Определение методов, типов и уровней тестировании
+Классификация подходов к тестированию интернет-магазина (методы, уровни, типы).
+  
 👉 https://github.com/Vlada658/Testing-Methods-Types-Levels-
 
 - Анализ требований и макета  
